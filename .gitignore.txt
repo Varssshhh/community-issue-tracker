@@ -1,0 +1,15 @@
+node_modules
+clientnode_modules
+servernode_modules
+
+.env
+client.env
+server.env
+
+clientdist
+serverdist
+
+.vscode
+
+uploads
+!uploads.gitkeep
